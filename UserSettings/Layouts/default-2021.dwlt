@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 101
+  controlID: 28
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 48
+  controlID: 18
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 49
+  controlID: 19
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -548,10 +548,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 1397}
-      m_SelectedIDs: 
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: e08e0000d68e0000d48e0000ac8e0000c68e0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 1cf7ffff0cf8ffff16fbffff8e730000
+      m_ExpandedIDs: 16fbffff2a7e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -800,9 +800,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 315.9864, y: -119.10628, z: 5.345646}
+    m_Target: {x: 118.75521, y: -253.53525, z: 294.70245}
     speed: 2
-    m_Value: {x: 315.9864, y: -119.10628, z: 5.345646}
+    m_Value: {x: 118.75521, y: -253.53525, z: 294.70245}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -849,9 +849,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1339461, y: 0.719173, z: -0.14447908, w: 0.66634643}
+    m_Target: {x: 0.33577597, y: 0.22171398, z: -0.08158283, w: 0.9118611}
     speed: 2
-    m_Value: {x: 0.13394322, y: 0.7191575, z: -0.14447597, w: 0.66633207}
+    m_Value: {x: 0.33564502, y: 0.22307606, z: -0.082084395, w: 0.9115052}
   m_Size:
     m_Target: 204.74033
     speed: 2
@@ -1013,22 +1013,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Fahrettin extras/scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Fahrettin extras/scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\fahre\Documents\GitHub\The-burgular-s-quest-game-unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 9e710000
-    m_LastClickedID: 29086
-    m_ExpandedIDs: 00000000827100008471000086710000b271000000ca9a3b
+    m_SelectedIDs: aa8e0000
+    m_LastClickedID: 36522
+    m_ExpandedIDs: 00000000aa8e0000ac8e0000ae8e0000e08e0000fe8e0000088f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1056,7 +1056,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000827100008471000086710000
+    m_ExpandedIDs: 00000000aa8e0000ac8e0000ae8e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
